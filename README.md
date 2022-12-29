@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/4z3Uboq.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The first step in our Post-install configuration process is to configure Roles. This allows us to add new roles for Agents to determine their level of access and permissions within the department's organization.
 </p>
 <br />
 
@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/JiPfjEH.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we configure Departments, where we can add new departments or modify the already existing departments. We can then add Agents to the various different departments. Tickets are routed through departments in the help desk, so it is important to have departments organized properly as there are many settings that can be set for each department. 
 </p>
 <br />
 
@@ -48,14 +48,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/HnTNRX7.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While configuring Teams, we can assign Agents from different departments onto one team and organize them to handle specific issues. Teams can also have a team leader who can recieve alerts and notices separate from other team members. 
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/3NNEEdI.png" height="80%" width="80%" alt=""/>
 </p>
+</br>
+<p>
+  Agents are the ones who respond to and resolve the tickets. They are assigned to a primary department and given a primary role for the tickets/tasks that are routed to that department. Configuring an Agent's profile is necessary in order for them to be able to work and have access to the appropriate processes. 
+</p>
+</br>
+
 <p>
 <img src="https://i.imgur.com/06n8AJw.png" height="80%" width="80%" alt=""/>
+</p>
+<p>
+  
 </p>
 <p>
 <img src="https://i.imgur.com/Wv4P2Qj.png" height="80%" width="80%" alt=""/>
