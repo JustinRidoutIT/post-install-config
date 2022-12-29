@@ -64,11 +64,21 @@ While configuring Teams, we can assign Agents from different departments onto on
 <img src="https://i.imgur.com/06n8AJw.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
-  
+  Users are the ones with the issues to be solved. They may need help with a plethora of tasks, such as registering their account, password resets, checking on their tickets, etc. 
 </p>
+</br>
+
 <p>
 <img src="https://i.imgur.com/Wv4P2Qj.png" height="80%" width="80%" alt=""/>
 </p>
 <p>
+  SLA Plans, or Service Level Agreements, differs from company to company, but these are set up to provide the length of time in which the help desk administrator expects tickets to be closed. The SLA plan used on each ticket varies on the severity of the issue and is determined by the Department the ticket is issued to. 
+</p>
+</br>
+
+<p>
 <img src="https://i.imgur.com/176dTW2.png" height="80%" width="80%" alt=""/>
+</p>
+<p>
+  Help Topics help to streamline the end-user's help desk experience and ensures proper assignment and prompt response to the ticket. Help Topics also determine which department the ticket is routed to, which also determines which Agents will have access to the ticket, and can also determine the ticket's SLA and priority level. 
 </p>
